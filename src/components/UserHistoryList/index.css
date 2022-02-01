@@ -1,11 +1,9 @@
-history-list-item {
+.history-list-item {
   display: flex;
-  flex-direction: column;
   align-items: center;
   padding: 15px;
   list-style-type: none;
   width: 100%;
-  background-color: rgba(37, 95, 202, 0.336);
   margin-bottom: 10px;
   border-radius: 5px;
 }
