@@ -12,6 +12,8 @@ body {
 } */
 .app-container {
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .navbar-container {
